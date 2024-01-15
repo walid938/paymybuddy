@@ -29,7 +29,6 @@ Une fois un compte a été créé, il faut mettre au moins 1€ dedans pour acti
 
 - Pour démarrer l'application, ajouter `application.properties` sous `resources`:
   ```properties
-
 spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
 spring.jpa.hibernate.ddl-auto=update
 spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
