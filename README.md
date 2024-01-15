@@ -41,7 +41,7 @@ server.error.whitelabel.enabled=false
 spring.thymeleaf.prefix=classpath:/templates/
 spring.thymeleaf.suffix=.html
 spring.thymeleaf.cache=false
-
+```
 
 #### Jacoco test couverture sur la couche du service:   
 
