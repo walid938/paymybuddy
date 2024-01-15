@@ -1,5 +1,5 @@
 
-PayMyBuddy
+# PayMyBuddy
 
 Openclassrooms Project6
 
