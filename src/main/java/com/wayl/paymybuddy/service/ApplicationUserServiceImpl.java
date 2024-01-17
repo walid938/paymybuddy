@@ -50,15 +50,4 @@ public class ApplicationUserServiceImpl implements ApplicationUserService {
         }
         return null;
     }
-
-    @Override
-    public void deleteById(int id) {
-        applicationuserRepository.deleteById(id);
-    }
-
-    @Override
-    public void deleteByEmail(String email) {
-        applicationuserRepository.deleteByEmail(email);
-    }
-
 }
