@@ -10,6 +10,5 @@ public interface ApplicationUserService {
     Optional<DaoApplicationUser> findById(int id);
     DaoApplicationUser findByEmail(String email);
     Integer save(DaoApplicationUser user);
-    void deleteById(int id);
-    void deleteByEmail(String email);
+   
 }
