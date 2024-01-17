@@ -10,7 +10,8 @@ Openclassrooms Project6
 
 - Le modèle physique de données:  
 
-![Diagramme de table](https://github.com/walid938/paymybuddy/assets/60928838/f1fd7d42-91c2-4fbb-88a5-53a93d32c01d)
+![Capture d'écran 2024-01-17 171728](https://github.com/walid938/paymybuddy/assets/60928838/4a5d23a7-8ca4-41e3-aba9-197675194626)
+
 
 
 ### Interface web:
