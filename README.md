@@ -6,7 +6,8 @@ Openclassrooms Project6
 ## Livrables:
 - Le diagramme de classe UML:  
 
-![diagrammeUml](https://github.com/walid938/paymybuddy/assets/60928838/bc6810ab-30bd-4d90-a87f-eebbbe29d68f)
+![Seghdau_Walid_1_uml_012024](https://github.com/walid938/paymybuddy/assets/60928838/3018dc81-8d5d-49ef-bd94-a88e89409a9f)
+
 
 - Le modèle physique de données:  
 
